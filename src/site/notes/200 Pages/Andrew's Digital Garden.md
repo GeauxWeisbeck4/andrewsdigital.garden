@@ -1,11 +1,11 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/200-pages/andrew-s-digital-garden/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/200-pages/andrew-s-digital-garden/","tags":["gardenEntry"]}
 ---
 
 
 ![digitalgardenpic.png](/img/user/Images/digitalgardenpic.png)
 
-### |  [[About\|About]] |  [[Tags\|Tags]]  | [[Categories\|Categories]] |  [[Archive\|Archive]]  |  [[Links\|Links]] | [[RSS\|RSS]] | [[Donate\|Donate]]
+### |  [[200 Pages/About\|About]] |  [[200 Pages/Tags/Tags\|Tags]]  | [[200 Pages/Categories\|Categories]] |  [[200 Pages/Archive\|Archive]]  |  [[200 Pages/Links\|Links]] | [[200 Pages/RSS\|RSS]] | [[200 Pages/Donate\|Donate]]
 
 #### Welcome to my digital garden, created with Obsidian and GitHub! I am so happy you stopped by to check out what I've been cultivating. Let me help you get your bearings around here.
 
@@ -24,5 +24,5 @@ Each gardener may choose to write about a set of topics they are trying to culti
 
 Want a recommendation on where to get started with each topic? Start with these and work your way up the knowledge tree!
 
-- ### [[300 Catalog of Notes/10 JavaScript/JavaScript Beginner Notes\|JavaScript Beginner Notes]]
+- ### [[300 Catalog of Notes/10 JavaScript/10.1 JavaScript Beginner Notes\|10.1 JavaScript Beginner Notes]]
 
