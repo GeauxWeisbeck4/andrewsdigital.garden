@@ -1,0 +1,29 @@
+---
+{"dg-publish":true,"permalink":"/1000-personal/stellar-consulting-solutions-llc/"}
+---
+
+- We are looking for Python Developers to join our engineering team and help us develop and maintain various high-performing, scalable, enterprise-grade applications.
+- You will be part of a talented software team that works on mission-critical applications. Python developer roles and responsibilities include managing python application development while providing expertise in the full software development lifecycle, from concept and design to testing.
+- **Responsibilities**
+- Python developer responsibilities include designing, developing and delivering high-volume, low-latency applications for mission-critical systems.
+    - Contribute in all phases of the development lifecycle
+    - Write well-designed, testable, efficient code
+    - Ensure designs are in compliance with specifications
+    - Prepare and produce releases of software components
+    - Implement security and data protection solutions
+    - Support continuous improvement by investigating alternatives and technologies and presenting these for architectural review
+    - Practice relentless automation, continuous integration, and continuous delivery
+- **Requirements**
+    - BS/MS degree in Computer Science, Engineering or a related subject, with at least 2 years of relevant work experience.
+    - Strong computer science fundamentals in algorithms, data structures, databases, operating systems, etc.
+    - Profound insight of Functional Programming paradigm.
+    - Understanding of distributed/scalable systems.
+    - Excellent knowledge of relational databases and SQL.
+    - Working experience as a Python Developer.
+    - Working experience with popular frameworks like Django, Tornado, Flask, etc.
+    - Good Understanding of Python AsyncIO.
+    - Working experience with test-driven development.
+    - Working experience with queueing technologies like Kafka, NSQ, RabbitMQ, etc.
+    - Some exposure to ORM technologies.
+    - Knowledge of standard tools for optimizing and testing code.
+    - Agile Methodologies experience.
