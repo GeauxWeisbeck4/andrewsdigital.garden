@@ -1,0 +1,18 @@
+---
+{"dg-publish":true,"permalink":"/500-catalog-of-notes/509-personal-wellness/509-2-learning/incremental-reading/"}
+---
+
+- **Incremental reading** is a learning technique that makes it possible to dramatically increase the speed of reading, while increasing comprehension, [applicability](https://supermemo.guru/wiki/Applicability "Applicability"), and [retention](https://supermemo.guru/wiki/Retention "Retention") of knowledge. **Incremental reading** makes it easy to convert articles from the web into knowledge that can last for life. Incremental reading uses [spaced repetition](https://supermemo.guru/wiki/Spaced_repetition "Spaced repetition") to ensure high [recall](https://supermemo.guru/wiki/Recall "Recall") at low cost.
+- The general idea is to form a "funnel of knowledge" in which a vast worldwide web is converted into a "selection of own material", that moves to important highlights ([extracts](https://supermemo.guru/wiki/Extract "Extract")), that get converted to active knowledge ([cloze deletion](https://supermemo.guru/wiki/Cloze_deletion "Cloze deletion")), which is then made [stable in memory](https://supermemo.guru/wiki/Stability "Stability"), and, in the last step, acted upon in a creative manner in [problem solving](https://supermemo.guru/wiki/Problem_solving "Problem solving").
+- Incremental reading and [spaced repetition](https://supermemo.guru/wiki/Spaced_repetition "Spaced repetition") were both pioneered by [SuperMemo](https://supermemo.guru/wiki/SuperMemo "SuperMemo"). Incremental reading was born in 2000. After two decades (2020), its adoption was still poor, but so was the adoption of [SuperMemo](https://supermemo.guru/wiki/SuperMemo "SuperMemo") and [spaced repetition](https://supermemo.guru/wiki/Spaced_repetition "Spaced repetition") in the early 1990s. Spaced repetition [exploded](https://supermemo.guru/wiki/Exponential_growth_of_the_popularity_of_Algorithm_SM-2 "Exponential growth of the popularity of Algorithm SM-2"), and so will incremental reading at some point (see: [Inevitability of incremental reading](https://supermemo.guru/wiki/Inevitability_of_incremental_reading "Inevitability of incremental reading")).
+- Incremental reading is implemented in [SuperMemo for Windows](https://supermemo.guru/wiki/SuperMemo "SuperMemo") (including [freeware](https://supermemo.guru/wiki/SuperMemo_15 "SuperMemo 15")).
+- See also:
+	-   [Incremental reading (5 min. video demo)](https://www.youtube.com/watch?v=DoQoeK53bP8)
+	-   [Incremental reading step by step](https://supermemo.guru/wiki/Incremental_reading_step_by_step "Incremental reading step by step") (3 min. introduction)
+	-   [Advantages of incremental reading](https://supermemo.guru/wiki/Advantages_of_incremental_reading "Advantages of incremental reading")
+	-   [Disadvantages of incremental reading](https://supermemo.guru/wiki/Disadvantages_of_incremental_reading "Disadvantages of incremental reading")
+	-   [Why is incremental reading not popular?](https://supermemo.guru/wiki/Why_is_incremental_reading_not_popular%3F "Why is incremental reading not popular?")
+	-   [Incremental reading (manual)](https://help.supermemo.org/wiki/Incremental_learning)
+	-   [How can I read faster?](https://supermemo.guru/wiki/How_can_I_read_faster%3F "How can I read faster?")
+	-   [Minimum definition of incremental reading](https://supermemo.guru/wiki/Minimum_definition_of_incremental_reading "Minimum definition of incremental reading")
+- #incrementalreading #learning #knowledgeformulation #speedreading 
