@@ -1,0 +1,83 @@
+---
+{"dg-publish":true,"permalink":"/1000-personal/sj-technologies-full-stack-developer-ii/"}
+---
+
+- # Full Stack Developer II
+    - SJ Technologies
+    - Remote
+    - Full-time
+- ## Application submitted
+    - You updated the status of this job yesterday
+    - [View All Applied Jobs](https://myjobs.indeed.com/applied?co=US&hl=en_US&from=mobvj_appliedstatebanner)
+- ## Job details
+    - No matching [job preferences](https://profile.indeed.com/preferences)
+    - Job Type
+    - Full-time
+    - Shift and Schedule
+    - 8 hour shift
+    - Day shift
+- ## Qualifications
+    - ****
+        - Mean stack: 3 years (Required)
+        - AWS: 1 year (Required)
+        - Node.js: 1 year (Required)
+        - Angular: 1 year (Required)
+        - APIs: 1 year (Preferred)
+- ## Benefits
+    - Pulled from the full job description
+    - 401(k)
+    - Dental insurance
+    - Health insurance
+    - Paid time off
+    - Vision insurance
+- ## Full Job Description
+    - **Full Stack Developer II**
+    - **Location: **Remote
+    - **Job: **Full Stack Developer II
+    - **Schedule: **Full-time
+    - **Shift: **Day Job
+    - **Clearance Required: **Yes
+    - **Potential for Remote Work: Yes**
+    - **JOB DESCRIPTION**
+    - **Description**
+    - Inc Magazine, Best Places to Work Award Winner- SJ Technologies is headquartered in Sugar Hill, Georgia, with multiple offices & remote team members across the US. Be a part of an award winning, WOSB-certified small business, specialized in IT Consulting. We value our team members and their contributions and to show our appreciation, we are proud to offer a comprehensive and competitive benefits package to candidates. Apply for more information regarding our benefits.
+    - **Responsibilities include but are not limited to**:
+        - Build the front-end of applications through appealing visual design.
+        - Design and implement APIs (microservices) in support of front-end services and help create a highly scalable, flexible, and secure backend.
+        - Work in a cross-functional team to deliver a complete user experience.
+        - Find out bottlenecks in the code, to make it suitable for scale.
+        - Write unit tests for every line of backend code.
+        - Build reusable code and libraries for future use.
+        - Ensure the technical feasibility of UI/UX designs.
+        - Optimize applications for maximum speed and scalability.
+        - Create and maintain technical documentation.
+    - **Qualifications:**
+        - 3+ years of Advanced proficiency in MEAN Stack - Mongo DB, Express JS, Angular JS, and Node JS.
+        - Experience in creating RESTful services with Node JS.
+        - Experience with cloud environments like AWS or Azure.
+        - Strong front-end UI development experience in web-based applications using HTML, CSS, JavaScript & Angular JS.
+        - Experience in DevSecOps processes & tools.
+        - Must have and/or be able to obtain a Security Clearance
+        - ​​​​​​​U.S. citizenship is required for this position.
+    - **Physical Requirements:**
+        - Prolonged periods sitting at a desk and working on a computer.
+        - Must be able to lift up to 15 pounds at times.
+    - Job Type: Full-time
+    - Pay: $90,000.00 - $110,000.00 per year
+    - Benefits:
+        - 401(k)
+        - Dental insurance
+        - Health insurance
+        - Paid time off
+        - Vision insurance
+    - Schedule:
+        - 8 hour shift
+    - Application Question(s):
+        - Do you posses or have the ability to obtain a security clearance?
+    - Experience:
+        - Mean stack: 3 years (Required)
+        - AWS: 1 year (Required)
+        - APIs: 1 year (Preferred)
+        - Node.js: 1 year (Required)
+        - Angular: 1 year (Required)
+    - Work Location: Remote
