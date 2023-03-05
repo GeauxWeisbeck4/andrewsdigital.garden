@@ -1,0 +1,27 @@
+---
+{"dg-publish":true,"permalink":"/500-catalog-of-notes/510-psychology/10-new-behaviors-that-attract-people/"}
+---
+
+- https://betterhumans.pub/10-weird-little-behaviours-that-make-people-attracted-to-you-9e9c718f25e6
+- # 1. Have a calming influence.
+    - Enjoy your interaction and allow your calm aura to relax those around you.
+- # 2. Quit habits that bring you shame.
+    - "Much of our sense of confidence is developed in moments when we needn't perform. We create an identity when we do things that make us feel bad about ourselves. A poor self-image will flood into all areas of life. Live well and with pride, and you will exude an attractive energy."
+- # 3. Listen beyond the words.
+    - Set yourself apart by listening.
+- # 4. Reveal less about you.
+    - Be mysterious.
+- # 5. Open up physically.
+    - Drop your shoulders, loosen up physically, and take up more space.
+- # 6. Soften your face.
+    - Just a light smile will do.
+- # 7. Make others look important.
+    - Insecure people highlight faults in others. Attractive leaders forget themselves and make others look and feel great.
+- # 8. Slow your movements.
+    - Being slow demonstrates emotional control and status while calming you down, so you think more clearly.
+- # 9. Ask a question few others ask.
+    - Show curiosity for others.
+- # 10. Ignore complaining, drama, and disrespect.
+    - Steer conversations back to positivity.
+- #entrepreneurship #life 
+- Untethered Mind - Alex Mathers https://untetheredmind.substack.com/
