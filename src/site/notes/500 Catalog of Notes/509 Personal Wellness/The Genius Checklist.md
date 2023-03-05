@@ -1,0 +1,50 @@
+---
+{"dg-publish":true,"permalink":"/500-catalog-of-notes/509-personal-wellness/the-genius-checklist/"}
+---
+
+- By Piotr Wozniak and SuperMemo Guru found here: [Genius Checklist](https://supermemo.guru/wiki/Genius_checklist)
+## Contents
+-   [1How to become a genius](https://supermemo.guru/wiki/Genius_checklist#How_to_become_a_genius)
+    -   [1.1Eliminate stress](https://supermemo.guru/wiki/Genius_checklist#Eliminate_stress)
+        - Stress is an increase in stress hormones. 
+        - Preoccupied with other problems and not creative
+        - Affects self discipline most of all
+    -   [1.2Sleep](https://supermemo.guru/wiki/Genius_checklist#Sleep)
+        - [throw away your alarm clock](https://supermemo.guru/wiki/Kill_the_alarm_clock "Kill the alarm clock")
+            - Lack of sleep:
+                - Supresses [memory consolidation](https://supermemo.guru/wiki/Memory_consolidation "Memory consolidation")
+                - Prevents [memory optimization](https://supermemo.guru/wiki/Memory_optimization_in_sleep "Memory optimization in sleep")
+                - Makes you unwilling to exert mental effort
+                - Undermines your self discipline
+    -   [1.3Self-discipline](https://supermemo.guru/wiki/Genius_checklist#Self-discipline)
+        - Lack of self-discipline aggravated by stress and a lack of sleep are the number one cause of low productivity
+        - The trick is to make incremental progress, convert discipline into a habit and then into a pleasure of productivity
+        - If you have trouble with self discipline and hate cold water, go stand in cold water right now
+        - Delay gratification 
+        - The more precise your plan the harder it is to execture, but more tangible results
+        - Focus on long term goals
+        - Think of self discipline daily
+        - If you are sick stop working, if you are sleepy go to sleep
+    -   [1.4Learn day and night](https://supermemo.guru/wiki/Genius_checklist#Learn_day_and_night)
+        - Knowledge is substance you [convert to great ideas](https://supermemo.guru/wiki/How_to_solve_any_problem%3F "How to solve any problem?") #howtosolveanyproblem [[How to solve any problem?\|How to solve any problem?]]
+    -   [1.5Abstract knowledge](https://supermemo.guru/wiki/Genius_checklist#Abstract_knowledge)
+    -   [1.6Knowledge representation](https://supermemo.guru/wiki/Genius_checklist#Knowledge_representation)
+    -   [1.7Health](https://supermemo.guru/wiki/Genius_checklist#Health)
+    -   [1.8Negative emotion](https://supermemo.guru/wiki/Genius_checklist#Negative_emotion)
+    -   [1.9Optimism and patience](https://supermemo.guru/wiki/Genius_checklist#Optimism_and_patience)
+    -   [1.10The Goal](https://supermemo.guru/wiki/Genius_checklist#The_Goal)
+    -   [1.11Balance learning and productivity](https://supermemo.guru/wiki/Genius_checklist#Balance_learning_and_productivity)
+    -   [1.12Passion](https://supermemo.guru/wiki/Genius_checklist#Passion)
+    -   [1.13Specialization vs. versatility](https://supermemo.guru/wiki/Genius_checklist#Specialization_vs._versatility)
+    -   [1.14Measure the day](https://supermemo.guru/wiki/Genius_checklist#Measure_the_day)
+    -   [1.15Forget money](https://supermemo.guru/wiki/Genius_checklist#Forget_money)
+    -   [1.16Write down ideas](https://supermemo.guru/wiki/Genius_checklist#Write_down_ideas)
+    -   [1.17Brainstorming](https://supermemo.guru/wiki/Genius_checklist#Brainstorming)
+    -   [1.18Time-management](https://supermemo.guru/wiki/Genius_checklist#Time-management)
+    -   [1.19Study great people](https://supermemo.guru/wiki/Genius_checklist#Study_great_people)
+    -   [1.20Study yourself](https://supermemo.guru/wiki/Genius_checklist#Study_yourself)
+    -   [1.21Work your social skills](https://supermemo.guru/wiki/Genius_checklist#Work_your_social_skills)
+    -   [1.22Slug it out](https://supermemo.guru/wiki/Genius_checklist#Slug_it_out)
+    -   [1.23Warm family](https://supermemo.guru/wiki/Genius_checklist#Warm_family)
+-   [2 Why do people fail my prescription?](https://supermemo.guru/wiki/Genius_checklist#Why_do_people_fail_my_prescription?)
+
