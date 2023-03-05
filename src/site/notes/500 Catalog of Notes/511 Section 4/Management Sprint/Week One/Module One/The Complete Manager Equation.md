@@ -1,0 +1,46 @@
+---
+{"dg-publish":true,"permalink":"/500-catalog-of-notes/511-section-4/management-sprint/week-one/module-one/the-complete-manager-equation/"}
+---
+
+To unlock the best work from your teammates, develop into a more complete manager. Accelerate your growth by focusing on the three key areas of the Complete Manager Equation: strong relationships, goals, and coaching.
+
+- What separates high performers form mediocore managers?
+	- Complete Manager equation
+- 1 in 2 people quit a job to get away from their manager in their jobs
+- # Workplace Culture
+	- Navigate complex change quickly
+	- Commitment to management led Microsoft to 10x it's stockprice
+		- "We want to push to be more of a learn-it-all-culture than a know-it-all culture."
+			- Satya Nadella, CEO Microsoft
+- # The Complete Manager Equation
+	- Focus on these three things:
+		- ## 1. Strong Relationships
+		- ## 2. Goals
+		- ## 3. Coaching
+	- Strong relationships
+		- Earning and building trust with teammates
+		- Use honesty and self awareness - Courtney Hohne 
+			- First version crap
+		- Who you are, what you do
+	- Powerful Goals
+		- Smart Goals
+		- OKR 
+			- Not necessarily effective
+		- About setting a goal that's truly worthy
+		- Worthy Goal - Michael Jordon 
+		- Re-Strategize To Chase the Right Goals
+			- Michael Jordan was great at this
+				- 5 time MVP
+				- Won a record 10 scoring titles and averaged 30.1 points a game
+				- Won 6 NBA Championships with the bulls an was MVP all 6 times
+	- Coaching
+		- Not about telling people what to do
+		- Stay curious longer, rushing to action and advice more slowly
+			- "I learned to thank people for feedback, tell them what I was working on, and ask them for advice. I learned to check in with them, hear from them how I was doing, and ask for more advice."
+				- Hubert Joly, Former CEO, Best Buy
+- # Key Takeaways
+	- 1. Commit to self-awareness
+	- 2. Focus on all three areas
+	- 3. Be human
+	- 4. Put into managing
+- Make growth about yourself as well as the people you are managing
