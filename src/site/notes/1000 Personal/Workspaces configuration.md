@@ -1,0 +1,61 @@
+---
+{"dg-publish":true,"permalink":"/1000-personal/workspaces-configuration/"}
+---
+
+- Thank you for installing the Workspaces extension for Roam Research. This page has been automatically generated to allow configuration of your workspaces.
+- Below the horizontal line is where you can define workspaces. You will see a variety of options that are required for each workspace definition. A dummy template is provided for reference.
+- This short video will walk you through configuration of your first workspace. You could do this manually, but it is easier to just set up your workspace as you like it and then use the Command Palette 'Create Workspace from current state' command.
+- {{video:https://www.loom.com/share/4ca0dd72a0fa4c46b012a59717e503d7}}
+- The first two options take either open or closed. The third (Main Content) requires the page uid (9 alphanumeric digit string at end of the url) or a Roam link to the [[page\|page]]. You could also simply put DNP if you want the Workspace to open to whichever daily note page is appropriate for that day. The fourth option takes a list of page or block uids, each on their own row, or a list of [[page\|page]] references on their own row. These will each be opened in the right sidebar.
+- A special use case would be to have multiple daily note pages as part of a workspace: you could have the DNP for today in the main content area and both yesterday and tomorrow's DNP in the right sidebar. For today use the code DNP, yesterday use DNP-1 and tomorrow use DNP+1. The dates will be calculated upon loading the workspace, meaning that they will always be right for the day you're using the workspace.
+- The final option allows you to define a keyboard shortcut to automatically navigate to your workspace. The shortcut will be SHIFT + ALT + a letter of your choice. Type a single lowercase letter in the space provided. Please note that not all letters will work as some are reserved for use by the browser or other functions. It might require some experimentation to find the right key to use! Setting a new keyboard shortcut requires you to either reload the page or the extension.
+- ---
+- Workspace Definitions:
+    - Dummy
+        - Left Sidebar:
+            - __open__
+        - Right Sidebar:
+            - __open__
+        - Main Content:
+            - __[[900 Pages/Links\|Links]]__
+        - Right Sidebar Content:
+            - __add a [[ page link here__
+            - __or a (( blockref here__
+            - __or maybe DNP-1 for yesterday or DNP+1 for tomorrow__
+            - __or go crazy and use DNP-365 to see what you were doing last year!__
+        - Keyboard Shortcut:
+            - __type one letter here__
+        - Custom CSS:
+            - ```css
+place any custom css in this code block```
+    - Geaux-Notes
+        - Left Sidebar:
+            - open
+        - Right Sidebar:
+            - open
+        - Main Content:
+            - [[900 Pages/Links\|Links]]
+        - Right Sidebar Content:
+            - [[JavaScript Notes Guide\|JavaScript Notes Guide]]
+            - [[500 Catalog of Notes/513 Web Dev/Python/Python Notes\|Python Notes]]
+            - [[500 Catalog of Notes/513 Web Dev/Deno/Deno\|Deno]]
+            - [[500 Catalog of Notes/513 Web Dev/Rust/Rust Notes\|Rust Notes]]
+            - [[700 Projects/30 Days of Projects - Failed Attempt 1\|30 Days of Projects - Failed Attempt 1]]
+        - Keyboard Shortcut:
+            - o
+        - Left Sidebar Content
+            - [[Data Structures and Algorithms 1\|Data Structures and Algorithms 1]]
+            - [[300 Content/Content Calendar\|Content Calendar]]
+            - [[500 Catalog of Notes/513 Web Dev/JavaScript/Next.js/API Reference\|API Reference]]
+            - [[500 Catalog of Notes/513 Web Dev/JavaScript/Next.js/Next.js Notes\|Next.js Notes]]
+            - [[900 Pages/MEAN Stack Developer\|MEAN Stack Developer]]
+    - * Autosave
+        - Left Sidebar:
+            - open
+        - Right Sidebar:
+            - closed
+        - Main Content:
+            - [[500 Catalog of Notes/513 Web Dev/JavaScript/Node.js/Learn the Fundamentals of Node Egghead\|Learn the Fundamentals of Node Egghead]]
+        - Right Sidebar Content:
+        - Keyboard Shortcut:
+            - 
