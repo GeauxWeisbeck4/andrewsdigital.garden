@@ -1,0 +1,41 @@
+---
+{"dg-publish":true,"permalink":"/500-catalog-of-notes/509-personal-wellness/509-2-learning/20-rules-of-knowledge-formulation/"}
+---
+
+- Found on this lovely wiki, SuperMemo Guru [20 Rules of Knowledge Formulation](https://supermemo.guru/wiki/20_rules_of_knowledge_formulation)
+- ## Introduction
+	- The way we formulate knowledge in learning has monumental impact on memory. Well-phrased questions makes learning easy. Well structured knowledge will help keep it memory fo rlife.
+		- Written by Dr. Piotr Wozniak in 1999
+- # The 20 Rules 
+	- 1. Don't learn things that you don't understand
+		- https://supermemo.guru/wiki/Do_not_memorize_before_you_understand
+	- 2. Learn before you memorize
+	- 3. Start from basics before going into complexities
+	- 4. [keep questions simple](https://supermemo.guru/wiki/Simple_questions_in_spaced_repetition "Simple questions in spaced repetition")
+	- 5. Pictures assist memory
+	- 6. Learn mnemonic techniques e.g. peg lists
+	- 7. Avoid lists, sets, and enumerations (they can be tackled with cloze deletion )
+		- [cloze deletion](https://supermemo.guru/wiki/Cloze_deletion "Cloze deletion")
+		- [video](https://www.youtube.com/watch?v=5ktH-TceHx8)
+	- 8. Personalize and provide examples
+	- 9. [cloze deletion](https://supermemo.guru/wiki/Cloze_deletion "Cloze deletion") is fast and has a great [mnemonic power](https://supermemo.guru/wiki/Mnemonic_anchor "Mnemonic anchor")
+	- 10. Use [redundancy](https://supermemo.guru/wiki/Redundancy "Redundancy") (similar [items](https://supermemo.guru/wiki/Item "Item") asking similar questions from different angles)
+	- 11. Use [references](http://help.supermemo.org/wiki/References)
+- ## New rules: Incremental Reading
+	- Rules were remodified and re-prioritized with the advent of [incremental reading](https://supermemo.guru/wiki/Incremental_reading "Incremental reading")
+		- Learn about it
+	- 12. Building comprehension may be part of the learning process, and creating [cloze deletions](https://supermemo.guru/wiki/Cloze_deletion "Cloze deletion") on poorly understood phrases is acceptable
+	- 13. Learning and memorization may occur in parallel (see: [video](https://youtu.be/XRuLV2_A3Ts))
+	-  14. Early in the learning process, [items](https://supermemo.guru/wiki/Item "Item") may be [complex](https://supermemo.guru/wiki/Complexity "Complexity"). They [get simplified incrementally](https://supermemo.guru/wiki/Simple_questions_in_spaced_repetition "Simple questions in spaced repetition") depending on [knowledge priority](https://supermemo.guru/wiki/Priority_queue "Priority queue"), and the available time
+	-  15. Multiple [cloze deletions](https://supermemo.guru/wiki/Cloze_deletion "Cloze deletion") on different formulations of the same statement may often substitute for mnemonic techniques (see: [Knowledge darwinism](https://supermemo.guru/wiki/Knowledge_darwinism "Knowledge darwinism"))
+	-  16. Lists, sets, and enumerations can be easily tackled with [cloze deletion](https://supermemo.guru/wiki/Cloze_deletion "Cloze deletion") (see: [video](https://youtu.be/AmpdWZEAX3Q))
+	-  17. For personalization, add your own stories to texts that you learn. [Elaborate creatively](https://supermemo.guru/wiki/Incremental_writing "Incremental writing")
+- ## Meta Rules
+	- 18. Pleasure of Learning
+		- A simple and universal litmus test for a good formulation is [pleasure of learning](https://supermemo.guru/wiki/Pleasure_of_learning "Pleasure of learning"). Each time you see a drop in pleasure, come back to this text and see if you can find a rule violation that might be responsible for the decline in fun.
+	- 19. Applicability
+		- e should strive at maximum [applicability](https://supermemo.guru/wiki/Applicability "Applicability") of knowledge [Human intelligence](https://supermemo.guru/wiki/Simple_formula_for_high_intelligence "Simple formula for high intelligence") is based on knowledge, of which **[abstract knowledge](https://supermemo.guru/wiki/Abstract_knowledge "Abstract knowledge")** plays a particularly important role. Abstract knowledge is based on rules, such as 2+2=4. Such rules may be employed in multiple contexts and contribute to problem solving capacity. Rules are more useful than facts. For example, it is more useful to know that 2+2=4 (rule) than to know that a friends's phone number beings with _4_ (fact). Rules and formulas are more [applicable](https://supermemo.guru/wiki/Applicability "Applicability") than facts. For more details see: [Abstract knowledge](https://supermemo.guru/wiki/Abstract_knowledge "Abstract knowledge")
+	- 20. Simplicity
+		- In representing knowledge, we should always strive at formulating **[atomic memories](https://supermemo.guru/wiki/Complexity "Complexity")** set in a good context of comprehension. If learning is enjoyable, [items](https://supermemo.guru/wiki/Item "Item") are probably formulated pretty well. The picture explains why simple memories are easier to [retain](https://supermemo.guru/wiki/Retention "Retention"):
+		- ![Pasted image 20230212090030.png](/img/user/1100%20Images/Pasted%20image%2020230212090030.png)
+			- _**Figure:** **[Memory complexity](https://supermemo.guru/wiki/Memory_complexity "Memory complexity")** illustrates the importance of the [minimum information principle](https://supermemo.guru/wiki/Minimum_information_principle "Minimum information principle"). When memorizing simple questions and answers, we can rely on a simple memory connection, and uniformly refresh that connection at review. Complex memories may have their concepts activated in an incomplete fashion, or in a different sequence that depends on the context. As a result, it is hard to produce a uniform increase in [memory stability](https://supermemo.guru/wiki/Memory_stability "Memory stability") at review. Complex items are difficult to remember. An example of a simple item may be a word pair, e.g._ apple = pomo _(Esperanto). While a complex net of connection may be needed to recognize an apple. The connection between_ apple _and_ pomo _is irreducible (i.e. maximally simplified)_
